@@ -1,0 +1,164 @@
+#header{
+	width:1200px;
+	height:55px;
+	background:#333;
+	margin:0 auto;
+}
+.lef{
+	float:left;
+	width:120px;
+	height:55px;
+	margin-left:20px;
+}
+ 
+.lef img{
+	width:120px;
+	height:50px;
+	line-height:50px;
+}
+.rig{
+	height:55px;
+	float:right;
+}
+ 
+.rig li{
+	float:left;
+	color:#fff;
+}
+.rig li a{
+	display:block;
+	color:#fff;
+	margin:10px 10px;
+	padding-top:10px;
+}
+ .active{
+	color:#ddd;
+}
+.rig li a:hover{
+	color:#ddd;
+}
+#banner{
+	width:1140px;
+	height:550px;
+	margin:20px;
+	background:#fff;
+	padding:10px;
+	border-right:2px solid #ccc;
+	border-bottom:2px solid #ccc;
+}
+#banner h1{
+	
+}
+#banner img{
+	width:200px;
+	height:160px;
+	margin:10px;
+}
+#content{
+	width:1140px;
+	height:350px;
+	margin:20px;
+	background:#fff;
+	padding:10px;
+	border-right:2px solid #ccc;
+	border-bottom:2px solid #ccc;
+}
+#pic {
+	width:1140px;
+	height:2000px;
+	margin:20px;
+	background:#fff;
+	padding:10px;
+	border-right:2px solid #ccc;
+	border-bottom:2px solid #ccc;
+}
+
+#pic dd{
+	width:240px;
+	height:180px;
+	border:1px solid #333;
+	margin:10px;
+}
+#pic img{
+	padding-left:20px;
+	
+}
+#pic span{
+	display:block;
+	width:80px;
+	height:20px;
+	padding:10px 80px;
+}
+#tab{
+	width:1140px;
+	height:400px;
+	margin:20px;
+	background:#fff;
+	padding:10px;
+	border-right:2px solid #ccc;
+	border-bottom:2px solid #ccc;
+}
+#tab ol{
+	 
+	margin-left:30px;
+}
+#tab ol li{
+	font-size:14px;
+	font-weight:bold;
+}
+#tab table{
+	width:1120px;
+	height:180px;
+}
+#tab th{
+	background:#666;
+	color:#fff;
+}
+#tab tr:last-child{
+	background:#ccc;
+	font-weight:bold;
+	font-size:14px;
+}
+#info{
+	width:1140px;
+	height:480px;
+	margin:20px;
+	background:#fff;
+	padding:10px;
+	border-right:2px solid #ccc;
+	border-bottom:2px solid #ccc;
+}
+#info h1{}
+#info .form1{
+	height:290px;
+	margin:0 350px;
+}
+#info input{
+	margin:10px;
+}
+#info p{
+	padding-left:98px;
+	color:#aaa;
+}
+#info textarea{
+	
+	padding-bottom:10px;
+}
+.form2{
+	display:block;
+	margin-top:30px;
+}
+.form2 input{
+	width:1090px;
+	height:40px;
+	background:#0f0ec9;
+	border-radius:14px;
+}
+#footer{
+	width:1200px;
+	height:80x;
+	background:#151517;
+	color:#fff;
+	text-align:center;
+	line-height:80px;
+}
